@@ -301,7 +301,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 839f37e8e43523047bf3f88b17c296d8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _speed: 100
+  _speed: 10
   _onPlay: 0
   _turtleStates: []
   currentState:
